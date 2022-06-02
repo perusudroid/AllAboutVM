@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ViewModel</string>
+    <string name="init_viewmodel_without_params">Init ViewModel without params</string>
+    <string name="init_viewmodel_with_params">Init ViewModel with params</string>
+    <string name="init_viewmodel_using_by">Init ViewModel using by</string>
+    <string name="init_viewmodel_with_params_using_by">Init ViewModel with params using by</string>
+    <string name="using_activity_instance">Using Activity Instance</string>
+</resources>
